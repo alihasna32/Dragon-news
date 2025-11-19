@@ -8,6 +8,10 @@ Designed with **modern UI tools** like Tailwind CSS & DaisyUI, the app ensures a
 Let’s build the project together! 🚀
 
 ---
+
+## Live Demo
+[Explore Gamehub Live](https://dragon-news-7f17d.web.app/)
+
 ## 📸 Project Screenshot
 <p align="center">
   <img src="https://github.com/alihasna32/Dragon-news/blob/main/Screenshot%202025-11-19%20160009.png" alt="Md. Ali Hasan Banner" />
@@ -67,7 +71,3 @@ npm run dev
 
 5️⃣ Open in Browser
 http://localhost:5173/
-
-🌍 Live Project Link
-
-🔗 Live Demo: https://dragon-news-7f17d.web.app/
